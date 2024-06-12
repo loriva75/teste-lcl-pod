@@ -3,7 +3,7 @@ kind: Component
 metadata:
   name: "teste-lcl-pod"
   annotations:
-    "humanitec.com/orgId": "platformcon-2024"
+    "humanitec.com/orgId": "platformcon-2024-lcl"
     "humanitec.com/appId": "teste-lcl-pod"
 spec:
   type: service
